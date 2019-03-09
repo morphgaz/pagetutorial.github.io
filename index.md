@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Gaz's GitHub Pages Tutorial
 
 You can use the [editor on GitHub](https://github.com/morphgaz/pagetutorial.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
